@@ -1,5 +1,4 @@
 README.md
-pyproject.toml
 setup.py
 crawlerWade52/__init__.py
 crawlerWade52/config.py
